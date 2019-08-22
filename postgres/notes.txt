@@ -1,0 +1,11 @@
+Simple table using 2d Duke project data
+
+
+Ensemble table
+rho table,
+sus1 table
+sus2 table
+
+referencing ensemble id
+
+View table to gather all observables
